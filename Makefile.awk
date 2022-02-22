@@ -1,16 +1,11 @@
 BEGIN{
- FPAT = "([^,]*)|(\"([^\"]|\"\")+\")"
+FPAT = "([^,]*)|(\"([^\"]|\"\")+\")"
 }
 {
-for(x = 0; x <= 168; x++); print "Ranking",x;
-for(i = 8; i<=32; i++) j+=$i; print "Total: ", j;
-print $7
-print $4
-print $5
-print $6
-printf "\n"
+for(i = 8; i<=32; i++) j+=$i;
+if(val != j) {rank++;}
+printf("%s\t%s\t%s\t%s\t%s\n",rank,$7,$4,$5,$6)
+val = j
 }
-
-
 END{
 }
