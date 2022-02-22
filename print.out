@@ -1,0 +1,168 @@
+	Car_ID	Year	Make	Model
+1	48	2015	Acura	TLX
+2	124	2015	Jeep	Wrangler
+3	222	2015	Lexus	Is250
+4	207	1993	Honda	Civic eG
+5	167	2016	Ford	Mystang
+6	159	2013	Hyundai	Gen coupe
+7	20	2009	Infinity	G37
+8	178	2009	Honda	Oddesy
+9	30	2012	Hyundai	Celoster
+10	134	2012	Subaru	WRX
+11	51	2015	Subaru	WRX
+12	183	2005	Volkswagen	Jetta
+13	177	2005	Volkswagen	Jetta gli
+14	5	2003	Acura	Rsx
+15	218	2010	Chevy	Camaro
+16	39	2011	Honda	Civic
+17	68	2013	Nissan	Altima
+18	10	2001	Nissan	S15
+19	67	2015	Subaru	Sti
+20	43	2011	Toyota	4 Runner
+21	170	2014	Chevy	Cruze
+22	216	2007	Chrystler	300
+23	99	2014	Civic	Si
+24	89	2014	Honda	Civic si
+25	95	2004	Infiniti	G35
+26	228	2010	Nissan	370
+27	7	2014	Nissan	Sentra
+28	14	1990	Nissan	Skyline
+29	8	1991	Nissan	Skyline
+30	145	1990	Volkswagen	Gti
+31	102	2015	Honda	Accord
+32	36	2016	Subaru	WRX
+33	189	2012	Toyota	Fj cruiser
+34	111	2007	Bmw	328i
+35	140	1995	Mitsu	Evo8
+36	161	2012	Nissan	370z
+37	37	2015	Subaru	Sti
+38	243	2008	Toyota	Matrix
+39	184	2010	Volkswagen	Cc
+40	66	2010	Volkswagen	Gti
+40	101	2014	Honda	Civic
+41	21	2009	Subaru	WRX
+42	200	2016	Subaru	WRX
+43	2	2016	Bmw	M2
+44	23	1998	Subaru	Legacy
+45	59	2012	Volkswagen	Golf
+46	42	2001	Dodge	Viper
+47	83	2014	Honda	Accord
+48	16	2008	Nissan	350z
+49	181	2003	Volkswagen	Gti
+49	0	2015	Chevy	Camaro
+50	88	2008	Honda	Accord
+51	25	2012	Mercedes	C250
+52	176	2014	Mitsu	Lancer
+53	134	2013	Subaru	WRX
+54	127	2013	Acura	Tsx
+55	104	2014	Civic coupe	Si
+56	120	2014	Ford	Focus st
+57	85	2017	Honda	Accord
+58	Showcar	2014	Nissan	Gtr
+59	108	2013	Audi	S4
+60	98	2012	Benz	C63
+61	130	2016	Honda	Civic si
+62	12	1990	Nissan	240
+63	232	2018	Subaru	WRX
+64	Vip	2008	Volkswagen	Gli
+65	96	2017	Volkswagen	Gti
+66	15	2014	Audi	S4
+67	65	2009	Honda	Fit
+68	92	2017	Hyundai	Elantra sport
+69	179	2004	Volkswagen	R32
+70	63	2010	Honda	Civic
+71	35	2016	Honda	Civic
+72	79	1993	Mazda	Miata
+73	4341	1992	Nissan	Rps13
+74	156	2014	Volkswagen	Gli
+75	220	2004	Audi	A4
+76	44	2018	Honda	Civic si
+77	19	2001	Mitsub	Evo7
+78	123	2006	Lexus	Sc430
+79	57	2015	Scion	Frs
+80	230	2004	Acura	Tsx
+81	33	2015	Subaru	Sti
+82	75	2012	Subaru	WRX
+83	175	2006	Honda	Civic
+84	115	2001	Honda	Crv
+85	153	2017	Subaru	Brz
+86	76	2005	Subaru	Sti
+87	56	2009	Volkswagen	Jetta
+88	114	2015	Acura	TLX
+89	163	2013	Mitsu	Ralliart
+90	53	2013	Subaru	WRX
+91	241	2007	Toyota	Camry
+92	114	2010	Volkswagen	Gti
+93	41	2012	Acura	Tsx
+94	116	2008	Audi	A4
+95	137	2017	Ford	Focus rs
+96	212	2001	Lexus	Is300
+97	52	2007	Mazda	Speed 3
+98	93	2005	Acura	TL
+99	226	2008	Honda	Accord
+100	22	2007	Honda	Civic
+100	70	2014	Honda	Civic
+101	128	2010	Infiniti	G37
+102	187	2007	Subaru	Legacy
+103	238	1982	Volkswagen	Rabbit
+104	31	2007	Honda	Fit
+105	71	2008	Acura	TL
+106	18	2015	Audi	S3
+107	38	2017	Hyundai	Elantra sport
+108	46	2008	Volkswagen	R32
+109	49	1997	Acura	Integra
+110	28	1995	Bmw	318xi
+111	219	2016	Ford	Focus rs
+112	185	2013	Volkswagen	Jett
+113	162	2014	Nissan	370z
+114	180	2011	Volkswagen	Gti
+115	103	2010	Acura	Tsx
+116	197	2010	Audi	A4
+117	74	2015	Honda	Accord
+118	150	2006	Nissan	350z
+119	78	2015	Mazda	6
+120	141	1993	Mazda	Miata
+121	17	2016	Mercedes	C43
+122	187	2007	Subaru	Legacy
+123	69	2018	Subaru	WRX
+124	100	2006	Volvo	S60r
+125	112	2008	Acura	TL
+126	172	2014	Bmw	4
+127	91	2010	Mitsu	Lancer
+128	158	2007	Nissan	350z
+129	182	2012	Volkswagen	Cc
+130	225	2016	Acura	TLX
+131	81	2016	Volkswagen	GTI
+132	6	2016	Volkswagen	Golf r
+133	121	2012	Acura	TL
+134	211	2004	Acura	Tsx
+135	186	2012	Volkswagen	Gli
+136	59	2007	Honda	Civic
+137	72	2016	Civic	Si
+138	45	2006	Acura	TL
+139	1051	2006	Acura	Tsx
+140	84	2012	Mercedes	Cl63amg
+141	118	1993	Honda	Civic
+142	174	2006	Acura	Rsx
+143	138	1990	Mazda	Miata
+144	242	2014	Nissan	Maxima
+145	153	2011	Nissan	370
+146	193	2014	Nissan	Ssntra
+147	94	2004	Volkswagen	Gti
+148	11	1991	Nissan	Skyline
+149	86	1996	Volkswagen	Jetta
+150	9	1996	Nissan	240
+151	142	1993	Toyota	Supra
+152	126	2010	Volkswagen	Eos
+153	144	2016	Volkswagen	Gti
+154	110	2011	Toyota	Camry
+155	34	2010	Honda	Fit
+156	190	1995	Lexus	Sc300
+157	235	2013	Scion	Frs
+158	24	2013	Subaru	BRZ
+159	64	2004	Subaru	Forester
+160	122	2011	Infinity	M37s
+161	106	2007	Acura	Tl type s
+162	113	2012	Acura	Tsx sportwagon
+163	37	2016	Honda	Civic 1.5t
+164	237	1987	Volkswagen	Jetta
