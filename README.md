@@ -9,5 +9,6 @@ The output in sort.out shows(ranking, car_id, year, car make, car model).
 
 o For each Car Make grouping, I list the top 3 cars. The output in printTopThree.out shows(ranking, car_id, year, car make, car model, total score).
 
+o A Makefile, where from the root of project repository I can run make lab1.
 ## Dependencies required for the scripts to function
-A Makefile, where from the root of project repository I can run make lab1
+
