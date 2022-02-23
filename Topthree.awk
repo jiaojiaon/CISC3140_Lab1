@@ -15,7 +15,7 @@ asorti(ARRAY,SARRAY);
 x = length(SARRAY);
 for(i = 1; i <= x; i++){
 	for(j = 0; j <= 3; j++){
-		for(r = 8; r<=32; i++) total+=$r;
+		for(r = 8; r<=32; i++) total+=$r
 		if(val != total) {rank++;}
 		val = total;
 	if(SARRAY[i] == SARRAY[i+1]){
