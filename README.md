@@ -7,7 +7,7 @@ The report show aggregate values that are computed from the CSV file provided by
 o For the Across all cars, I compute the total for each row and add as a new column. The output in printOutTotal shows(total score, car_id, year, car make, car model).
 The output in printOutRanking shows(ranking, car_id, year, car make, car model).
 
-o For each Car Make grouping, I list the top 3 cars. The output in printTopThree.out shows(ranking, car_id, year, car make, car model, total score).
+o For each Car Make grouping, I list the top 3 cars. The output in printTopThreeRanking shows(ranking, car_id, year, car make, car model, total score).
 
 o A Makefile, where from the root of project repository I can run make lab1.
 ## Dependencies required for the scripts to function
