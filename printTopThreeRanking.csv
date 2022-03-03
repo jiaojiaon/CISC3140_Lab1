@@ -1,0 +1,4 @@
+ranking, car_id, year,car_make,car_model,total_score
+116	113	2012	Acura	Tsx sportwagon
+110	112	2008	Acura	TL
+102	114	2015	Acura	TLX
