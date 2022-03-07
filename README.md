@@ -13,19 +13,18 @@ o A Makefile, where from the root of project repository I can run make lab1.
 ## Installation
 
 Prepare a Makefile as an automated build tool for running the AWK script. Perhaps running the command make lab1 from the root can ensure that data is up to date and run the AWK processing.
-Run using the command ```make lab1```
 
+Run using the command ```make lab1```
 
 ## Dependencies
 
 The project was build using Brooklyn College linux machines.
 
-
 ## Setup
 
 1. Sign up for a GitHub account if you don't have one. Set up your SSH keys with github.
 2. Clone this repository `git clone git@github.com:jiaojiaon/CISC3140_Lab1.git` to your machine to get a copy.
-3. Move into the project's root directory with `cd CISC3140_Lab1` [^1]
+3. Move into the project's root directory with `cd CISC3140_Lab1` 
 4. Run using the command ```make lab1```
 5. Then vim printOutTotal.csv to see the output of the total score of the cars 
 6. You can vim printOutRanking.csv to see the output of the ranking of the cars
